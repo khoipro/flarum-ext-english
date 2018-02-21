@@ -1,7 +1,7 @@
 {
-    "name": "flarum/flarum-ext-english",
+    "name": "khoipro/flarum-ext-vietnamese",
     "type": "flarum-extension",
-    "description": "English language pack.",
+    "description": "Vietnamese language pack.",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
@@ -21,8 +21,8 @@
             }
         },
         "flarum-locale": {
-            "code": "en",
-            "title": "English"
+            "code": "vi",
+            "title": "Vietnamese"
         }
     }
 }
